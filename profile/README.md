@@ -19,15 +19,15 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/dark/h-agents.svg"><img src="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/light/h-agents.svg" width="100%" alt="Every agent. One tunnel for every agent you run."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/dark/h-proof.svg"><img src="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/light/h-proof.svg" width="100%" alt="For security teams. Proof you can check, not a promise."></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/dark/agents.svg"><img src="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/light/agents.svg" width="100%" alt="Works with Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, Windsurf and ChatGPT."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/dark/pipeline.svg"><img src="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/light/pipeline.svg" width="100%" alt="One request, end to end. Characters flow round a loop: a request from Claude Code with a customer's name leaves the agent in orange, the green seal on the laptop turns it into a blue stand-in, the AI provider sees stand-ins only, and the real value is restored on the way back. Below, signed receipts: 2 sealed, 0 left; 1 sealed, 0 left; 3 sealed, 0 left."></picture>
 
-It sits under every agent on the laptop: the terminal, the editor, your scripts and the browser. Your Zscaler, Netskope or Purview stays the only thing in the network path.
+Every request takes the same path. It is sealed and checked on the laptop, the model sees only stand-ins, the real values come back on the way home, and a signed receipt is written for each one.
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/dark/h-true.svg"><img src="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/light/h-true.svg" width="100%" alt="For security teams. True on every request."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/dark/h-true.svg"><img src="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/light/h-true.svg" width="100%" alt="By design. True on every request."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/dark/numbers.svg"><img src="https://raw.githubusercontent.com/extratunnel/.github/main/profile/assets/light/numbers.svg" width="100%" alt="True on every request. 0 bytes of code or customer data reach our servers. 100% of agent requests are sealed and checked before they leave. 1 signed receipt for every request, chained to the last. $0 AI bill from us: you keep the AI plan you already pay for."></picture>
 
